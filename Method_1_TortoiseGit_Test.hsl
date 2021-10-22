@@ -2273,13 +2273,9 @@ ML_STAR.Part_Tip_All.SetCurrentPosition(1);
 // {{ 468 1 0 "c051721c_3b64_4720_8fbe3ecab557bf5a" "{586C3429-F931-405f-9938-928E22C90BFA}"
 
 // }} ""
-// {{ 469 1 0 "30d252f6_9e32_4ccb_8a0c36c75b5f3693" "{998A7CCC-4374-484D-A6ED-E8A4F0EB71BA}"
-customDialogC3E08207AC9B4a2e988AC9F26E85280F.InitCustomDialog( "30d252f6_9e32_4ccb_8a0c36c75b5f3693" );
-customDialogC3E08207AC9B4a2e988AC9F26E85280F.ShowCustomDialog();
-// }} ""
 // {{ 2 "AutoExitBlock" ""
 // }} ""
 // {{{ 5 "main" "End"
 } }
 // }} ""
-// $$author=tiffany.cheung$$valid=0$$time=2021-10-22 11:10$$checksum=0bd8d482$$length=093$$
+// $$author=tiffany.cheung$$valid=0$$time=2021-10-22 11:12$$checksum=37ae73d0$$length=093$$
