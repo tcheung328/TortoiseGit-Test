@@ -17,8 +17,8 @@ dialog customDialog2D97C39C5AF44106BEC0FD939FB22F85;
 dialog customDialogC903391AD311454894BADDE1E39AABB2;
 dialog customDialogD98659AD0F4F4078B8B77A6939710821;
 dialog customDialog9160B2574C054bf8B42127F9D72D87B9;
-dialog customDialogC3E08207AC9B4a2e988AC9F26E85280F;
 global device ML_STAR ("Method_1_TortoiseGit_Test.lay", "ML_STAR", hslTrue);
+dialog customDialogA04E5155C5D449c7806621DC040F60E4;
 /* {{ 2 "VariableInsertLine" "" */ // }} ""
 // {{ 2 "TemplateIncludeBlock" ""
  namespace _Method { #include "HSLMETEDLib.hs_" } 
@@ -2273,9 +2273,13 @@ ML_STAR.Part_Tip_All.SetCurrentPosition(1);
 // {{ 468 1 0 "c051721c_3b64_4720_8fbe3ecab557bf5a" "{586C3429-F931-405f-9938-928E22C90BFA}"
 
 // }} ""
+// {{ 469 1 0 "b22c6db3_9844_4721_810f346e099b7029" "{998A7CCC-4374-484D-A6ED-E8A4F0EB71BA}"
+customDialogA04E5155C5D449c7806621DC040F60E4.InitCustomDialog( "b22c6db3_9844_4721_810f346e099b7029" );
+customDialogA04E5155C5D449c7806621DC040F60E4.ShowCustomDialog();
+// }} ""
 // {{ 2 "AutoExitBlock" ""
 // }} ""
 // {{{ 5 "main" "End"
 } }
 // }} ""
-// $$author=tiffany.cheung$$valid=0$$time=2021-10-22 11:12$$checksum=37ae73d0$$length=093$$
+// $$author=tiffany.cheung$$valid=0$$time=2021-10-22 14:11$$checksum=5ba5188a$$length=093$$
